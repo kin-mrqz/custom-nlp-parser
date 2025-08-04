@@ -20,9 +20,9 @@
     "ner":[
       "course",
       "dish_name",
+      "food_type",
       "max_price",
-      "min_price",
-      "type"
+      "min_price"
     ]
   },
   "pipeline":[
